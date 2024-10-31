@@ -31,3 +31,33 @@ RecipeLand is a dynamic website designed to help users discover and share delici
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/recipeland.git
+
+## Usage
+
+### Open Feedback Form
+- Click the **"Open Feedback Form"** button located in the navigation bar to display the feedback form. Fill in your email and message, then submit your feedback.
+
+### Rate Recipes
+- Click on the stars in the rating section of each recipe card to select your rating. The selected stars will change color, and a message indicating your rating will be displayed.
+
+### Submit Recipes
+- Navigate to the recipe submission section and follow the multi-step form. Enter your recipe name, category, ingredients, and instructions. Review your entries on the confirmation page and submit the recipe.
+
+### Theme Toggle
+- Use the theme switch located in the navbar to toggle between day and night themes for a personalized experience.
+
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue.
+
+### Steps to Contribute:
+1. **Fork the repository** on GitHub.
+2. **Create a new branch** for your feature or bug fix:
+   ```bash
+   git checkout -b feature/YourFeature
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code under the terms of the license.
+
+### MIT License
+
